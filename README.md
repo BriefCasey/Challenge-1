@@ -6,6 +6,7 @@
 
 ## Description
 In this challenge for UT Austin Web Development Bootcamp I refactored code to make it more readable, using semantic html.
+![challenge1](https://user-images.githubusercontent.com/70083487/204441815-035c899b-bf45-43d8-93b4-e39de2df594e.png)
 
 ## Table of Contents
 - [Installation](#Installation)
